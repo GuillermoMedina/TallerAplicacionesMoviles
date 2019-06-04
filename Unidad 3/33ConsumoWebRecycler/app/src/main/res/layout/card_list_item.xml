@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/frame"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        app:cardElevation="16dp">
+
+
+
+        <RelativeLayout
+            android:id="@+id/view_foreground"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:padding="10dp">
+
+
+            <TextView
+                android:id="@+id/NoControl"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="4dp"
+                android:ellipsize="end"
+                android:fontFamily="sans-serif"
+                android:maxLines="1"
+                android:text="NoControl"
+                android:textColor="#000000"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/Nombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/NoControl"
+                android:layout_alignStart="@+id/NoControl"
+                android:layout_alignLeft="@+id/NoControl"
+                android:layout_marginStart="1dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="12dp"
+                android:text="Nombre"
+                android:textColor="#000000"
+                android:textSize="17sp"
+                app:layout_constraintStart_toStartOf="@+id/NoControl"
+                app:layout_constraintTop_toBottomOf="@+id/NoControl" />
+
+            <TextView
+                android:id="@+id/U1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/Nombre"
+                android:layout_alignStart="@+id/Nombre"
+                android:layout_alignLeft="@+id/Nombre"
+                android:layout_marginStart="3dp"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="12dp"
+                android:text="U1"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/Nombre"
+                app:layout_constraintTop_toBottomOf="@+id/Nombre" />
+
+            <TextView
+                android:id="@+id/U2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/U1"
+                android:layout_alignStart="@+id/U1"
+                android:layout_alignLeft="@+id/U1"
+                android:layout_marginStart="-1dp"
+                android:layout_marginLeft="-1dp"
+                android:layout_marginTop="12dp"
+                android:text="U2"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/U1"
+                app:layout_constraintTop_toBottomOf="@+id/U1" />
+
+            <TextView
+                android:id="@+id/U3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/U2"
+                android:layout_alignStart="@+id/U2"
+                android:layout_alignLeft="@+id/U2"
+                android:layout_marginStart="1dp"
+                android:layout_marginLeft="1dp"
+                android:layout_marginTop="12dp"
+                android:text="U3"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="@+id/U2"
+                app:layout_constraintTop_toBottomOf="@+id/U2" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</FrameLayout>
