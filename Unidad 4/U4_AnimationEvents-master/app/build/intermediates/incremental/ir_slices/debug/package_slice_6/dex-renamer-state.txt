@@ -1,0 +1,4 @@
+#Thu May 02 08:36:14 MDT 2019
+base.0=C\:\\Users\\Medina\\Documents\\Descargas\\U4_AnimationEvents-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/simpsons01" android:duration="100" />
+    <item android:drawable="@drawable/simpsons02" android:duration="100" />
+    <item android:drawable="@drawable/simpsons03" android:duration="100" />
+    <item android:drawable="@drawable/simpsons04" android:duration="100" />
+    <item android:drawable="@drawable/simpsons05" android:duration="100" />
+    <item android:drawable="@drawable/simpsons06" android:duration="100" />
+    <item android:drawable="@drawable/simpsons07" android:duration="100" />
+    <item android:drawable="@drawable/simpsons08" android:duration="100" />
+    <item android:drawable="@drawable/simpsons09" android:duration="100" />
+    <item android:drawable="@drawable/simpsons10" android:duration="100" />
+    <item android:drawable="@drawable/simpsons11" android:duration="100" />
+    <item android:drawable="@drawable/simpsons12" android:duration="100" />
+    <item android:drawable="@drawable/simpsons13" android:duration="100" />
+    <item android:drawable="@drawable/simpsons14" android:duration="100" />
+    <item android:drawable="@drawable/simpsons15" android:duration="100" />
+    <item android:drawable="@drawable/simpsons16" android:duration="100" />
+    <item android:drawable="@drawable/simpsons17" android:duration="100" />
+    <item android:drawable="@drawable/simpsons18" android:duration="100" />
+    <item android:drawable="@drawable/simpsons19" android:duration="100" />
+    <item android:drawable="@drawable/simpsons20" android:duration="100" />
+    <item android:drawable="@drawable/simpsons21" android:duration="100" />
+    <item android:drawable="@drawable/simpsons22" android:duration="100" />
+    <item android:drawable="@drawable/simpsons23" android:duration="100" />
+    <item android:drawable="@drawable/simpsons24" android:duration="100" />
+    <item android:drawable="@drawable/simpsons25" android:duration="100" />
+    <item android:drawable="@drawable/simpsons26" android:duration="100" />
+    <item android:drawable="@drawable/simpsons27" android:duration="100" />
+    <item android:drawable="@drawable/simpsons28" android:duration="100" />
+    <item android:drawable="@drawable/simpsons29" android:duration="100" />
+    <item android:drawable="@drawable/simpsons30" android:duration="100" />
+    <item android:drawable="@drawable/simpsons31" android:duration="100" />
+    <item android:drawable="@drawable/simpsons32" android:duration="100" />
+    <item android:drawable="@drawable/simpsons33" android:duration="100" />
+    <item android:drawable="@drawable/simpsons34" android:duration="100" />
+    <item android:drawable="@drawable/simpsons35" android:duration="100" />
+    <item android:drawable="@drawable/simpsons36" android:duration="100" />
+    <item android:drawable="@drawable/simpsons37" android:duration="100" />
+    <item android:drawable="@drawable/simpsons38" android:duration="100" />
+    <item android:drawable="@drawable/simpsons39" android:duration="100" />
+    <item android:drawable="@drawable/simpsons40" android:duration="100" />
+    <item android:drawable="@drawable/simpsons41" android:duration="100" />
+    <item android:drawable="@drawable/simpsons42" android:duration="100" />
+    <item android:drawable="@drawable/simpsons43" android:duration="100" />
+    <item android:drawable="@drawable/simpsons44" android:duration="100" />
+    <item android:drawable="@drawable/simpsons45" android:duration="100" />
+
+
+</animation-list>
