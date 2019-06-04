@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Unidad3_3.1JsonClima</string>
+
+    <string-array name="capitales">
+        <item>Mazatlan</item>
+        <item>Tepic</item>
+        <item>Guadalajara</item>
+        <item>Tijuana</item>
+        <item>Manzanillo</item>
+    </string-array>
+
+</resources>
